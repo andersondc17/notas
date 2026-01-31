@@ -1,6 +1,5 @@
 npm install bootstrap@4 jquery@3.3.1 popper.js@^1.14.7 --sabe
 
-
 Las rutas para colocar en el archivo angular.json
 "architect": {
   "build": {
@@ -16,4 +15,5 @@ Las rutas para colocar en el archivo angular.json
       ]
     }
   }
+
 }
