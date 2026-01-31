@@ -1,2 +1,2 @@
-# notas
+# Notas
 Repositorio de notas personales
