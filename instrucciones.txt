@@ -1,3 +1,4 @@
+npx -p @angular/cli@7 ng new repaso --directory .
 npm install bootstrap@4 jquery@3.3.1 popper.js@^1.14.7 --save
 
 Las rutas para colocar en el archivo angular.json
@@ -18,3 +19,4 @@ Las rutas para colocar en el archivo angular.json
 
 }
 
+npx ng serve --port 4500 -o
